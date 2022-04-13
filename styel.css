@@ -169,7 +169,7 @@ button:hover {
 }
 .footer {
   margin-top: 150px;
-  width: 1340px;
+  width: 100%;
   padding: 20px;
   background: black;
   color: #efefef;
